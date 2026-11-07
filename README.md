@@ -189,3 +189,6 @@ This repository serves as the official landing page for Eudora Viewer. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Eudora Viewer today!**
+
+---
+**Last updated:** 2026-11-07 15:58:49 UTC
